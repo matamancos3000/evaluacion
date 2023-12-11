@@ -10,7 +10,7 @@ function login
             <Layout>
                 <main className="flex-grow overflow-auto">
                     <div className="relative max-w-7xl mx-auto z-10">
-                        {/* contenido de la pagina de login :3 si señol */}
+                        {/* contenido de la pagina de login :3 si señol en si :v */}
                       
                     </div>
                 </main>
