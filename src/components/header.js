@@ -42,7 +42,7 @@ function Header() {
       <div className="text-2xl font-bold">
       <Logo />
       </div>
-      <div className={`text-2xl font-bold ${theme === 'dark' ? '' : 'text-black'}`}>Evaluaciones</div>
+      <div className={`text-2xl font-bold ${theme === 'dark' ? '' : 'text-black'}`}>Evaluaiones</div>
       <div className="relative inline-block text-left">
         <Dropdown />
       </div>

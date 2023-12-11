@@ -2,7 +2,7 @@ import Header from '../../components/header';
 import Footer from '../../components/footer';
 import Layout from '../../hocs/layouts/Layout';
 
-function Home() {
+function info() {
     return (
         <div className="flex flex-col min-h-screen">
             <Header />
@@ -18,4 +18,4 @@ function Home() {
         </div>
     );
 }
-export default Home;
+export default info;
